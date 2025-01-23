@@ -1,3 +1,3 @@
 # firstRepo
-this is my first git repository
-hi, i am prem 
+this is my first git reposi
+hello i am prem 
